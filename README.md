@@ -1,3 +1,3 @@
 # new-repo
-its for tist
+its for test
 lets start
